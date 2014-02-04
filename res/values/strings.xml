@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Web Content</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="round_ball">Round Ball</string>
+	<string name="jabber">Jabberwocky</string>
+	<string name="U_I_NASA">Uofi at NASA</string>
+	<string name="war">war of the worlds</string>
+	<string name="wiki">wikipedia</string>
+	<string name="picture">picture</string>
+</resources>
